@@ -102,8 +102,7 @@ Dataset: [UCI Machine Learning Repository – Wine Data Set](https://archive.ics
 ## 👤 Author
 
 **Shobana C**
-[GitHub]https://github.com/shobanachandran24-lab · [[LinkedIn](https://www.linkedin.com/in/shobanachandran2402/)]
-
+[GitHub](https://github.com/shobanachandran24-lab) · [LinkedIn](https://www.linkedin.com/in/shobanachandran2402/)
 ---
 
 ⭐ If you found this helpful, consider giving the repo a star!
